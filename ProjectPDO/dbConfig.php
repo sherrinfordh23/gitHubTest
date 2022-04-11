@@ -2,7 +2,7 @@
 $host="127.0.0.1";
 $dbName="dbteacher";
 $user="root";
-$password="";
+$pass="";
 
 
 //changes in a git repo
